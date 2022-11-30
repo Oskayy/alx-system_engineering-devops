@@ -1,1 +1,1 @@
-Creating scripts
+0. Where am I?
